@@ -1,118 +1,109 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\robel\\TFGDesafioElemental\\",
+  "WorkspaceRootPath": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\hud\\controlbotones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hud\\controlbotones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\inventario\\itemslopui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventario\\itemslopui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\inventario\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventario\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\inventario\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventario\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\inventario\\controlfrutasinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventario\\controlfrutasinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\sprite\\controlenemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sprite\\controlenemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\win\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\win\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\win\\controlwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\win\\controlwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\sonido\\controladorsonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sonido\\controladorsonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\sprite\\controlfrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sprite\\controlfrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\sprite\\controlinterruptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sprite\\controlinterruptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\sprite\\controljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|c:\\users\\robel\\onedrive\\documentos\\tfgdesafioelemental\\assets\\scripts\\sprite\\controljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sprite\\controljugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|c:\\users\\robel\\tfgdesafioelemental\\assets\\scripts\\sprite\\controlplataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\HUD\\ControlBotones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\inventario\\itemslopui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventario\\itemslopui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\inventario\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventario\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\inventario\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventario\\inventorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\inventario\\controlfrutasinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventario\\controlfrutasinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\sprite\\controlenemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sprite\\controlenemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\win\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\win\\gamedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\win\\controlwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\win\\controlwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\sonido\\controladorsonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sonido\\controladorsonido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\sprite\\controlfrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sprite\\controlfrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\sprite\\controlinterruptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sprite\\controlinterruptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\sprite\\controlplataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sprite\\controlplataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\opciones\\contolpantallacompleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\opciones\\contolpantallacompleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opciones\\contolpantallacompleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\opciones\\controlcalidadimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\opciones\\controlcalidadimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opciones\\controlcalidadimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\opciones\\controlvolumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\opciones\\controlvolumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\opciones\\controlvolumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\inventario\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\inventario\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventario\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\menu\\controlmenupausa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\menu\\controlmenupausa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\controlmenupausa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\inventario\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\inventario\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventario\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\TFGDesafioElemental\\assets\\scripts\\hud\\controlhud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\assets\\scripts\\hud\\controlhud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B219451F-0501-D2E9-3A96-0B3449E0C81F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hud\\controlhud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlInterruptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ControlInterruptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlInterruptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlFrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ControlFrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlFrutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlJugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ControlJugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlJugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlPlataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ControlPlataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlPlataforma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlEnemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ControlEnemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlEnemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlWin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ControlWin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlWin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\GameData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\GameData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,164 +113,153 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ItemSlopUI.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\ItemSlopUI.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\ItemSlopUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Inventario\\ItemSlopUI.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\ItemSlopUI.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\ItemSlopUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\Inventario\\ItemSlopUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-05T07:46:40.162Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ItemData.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\ItemData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventario\\ItemData.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\ItemData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Inventario\\ItemData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T07:46:49.608Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "InventoryManager.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\InventoryManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventario\\InventoryManager.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\InventoryManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Inventario\\InventoryManager.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAYwFEAAAABAAAAAAAAAA==",
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventario\\ItemData.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\ItemData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventario\\ItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T07:46:17.263Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T07:46:49.608Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ControlFrutasInventario.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\ControlFrutasInventario.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventario\\ControlFrutasInventario.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\ControlFrutasInventario.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Inventario\\ControlFrutasInventario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Title": "InventoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\InventoryManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventario\\InventoryManager.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\InventoryManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventario\\InventoryManager.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwFEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-05T07:56:11.751Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T07:46:17.263Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ControlEnemigo.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlEnemigo.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Sprite\\ControlEnemigo.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlEnemigo.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Sprite\\ControlEnemigo.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAQwFQAAAABAAAAAAAAAA==",
+              "Title": "ControlFrutasInventario.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\ControlFrutasInventario.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventario\\ControlFrutasInventario.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\ControlFrutasInventario.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventario\\ControlFrutasInventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T08:58:42.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-05T07:56:11.751Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "GameData.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Win\\GameData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Win\\GameData.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Win\\GameData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Win\\GameData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Title": "ControlEnemigo.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlEnemigo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sprite\\ControlEnemigo.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlEnemigo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sprite\\ControlEnemigo.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwFQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T08:58:12.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T08:58:42.38Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ControlWin.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Win\\ControlWin.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Win\\ControlWin.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Win\\ControlWin.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Win\\ControlWin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Title": "GameData.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Win\\GameData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Win\\GameData.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Win\\GameData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Win\\GameData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T08:57:39.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T08:58:12.935Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ControladorSonido.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Sonido\\ControladorSonido.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Sonido\\ControladorSonido.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Sonido\\ControladorSonido.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Sonido\\ControladorSonido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Title": "ControlWin.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Win\\ControlWin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Win\\ControlWin.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Win\\ControlWin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Win\\ControlWin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T08:56:45.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ControlBotones.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\HUD\\ControlBotones.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HUD\\ControlBotones.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\HUD\\ControlBotones.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HUD\\ControlBotones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T08:45:52.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T08:57:39.701Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ControlFrutas.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlFrutas.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Sprite\\ControlFrutas.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlFrutas.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Sprite\\ControlFrutas.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwFwAAAABAAAAAAAAAA==",
+              "Title": "ControladorSonido.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Sonido\\ControladorSonido.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sonido\\ControladorSonido.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Sonido\\ControladorSonido.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sonido\\ControladorSonido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T08:58:45.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T08:56:45.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControlBotones.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\HUD\\ControlBotones.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\HUD\\ControlBotones.cs",
+              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\HUD\\ControlBotones.cs",
+              "RelativeToolTip": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\HUD\\ControlBotones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T08:45:52.633Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ControlInterruptor.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlInterruptor.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Sprite\\ControlInterruptor.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlInterruptor.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Sprite\\ControlInterruptor.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwD4AAAABAAAAAAAAAA==",
+              "Title": "ControlFrutas.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlFrutas.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sprite\\ControlFrutas.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlFrutas.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sprite\\ControlFrutas.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwFwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T08:58:49.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T08:58:45.39Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "ControlInterruptor.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlInterruptor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Sprite\\ControlInterruptor.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlInterruptor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Sprite\\ControlInterruptor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T08:58:49.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ControlJugador.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlJugador.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlJugador.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sprite\\ControlJugador.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlJugador.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlJugador.cs",
               "RelativeToolTip": "Assets\\Scripts\\Sprite\\ControlJugador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAADYBAAAAAAAAAAAcwEoBAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-08T08:58:52.44Z",
               "EditorCaption": ""
@@ -288,22 +268,21 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "ControlPlataforma.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlPlataforma.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlPlataforma.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sprite\\ControlPlataforma.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlPlataforma.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Sprite\\ControlPlataforma.cs",
               "RelativeToolTip": "Assets\\Scripts\\Sprite\\ControlPlataforma.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAQwEAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-08T08:58:54.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-08T08:58:54.671Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "ControlMenuPausa.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Menu\\ControlMenuPausa.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Menu\\ControlMenuPausa.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\ControlMenuPausa.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Menu\\ControlMenuPausa.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Menu\\ControlMenuPausa.cs",
               "RelativeToolTip": "Assets\\Scripts\\Menu\\ControlMenuPausa.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -313,9 +292,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "ControlHUD.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\HUD\\ControlHUD.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\HUD\\ControlHUD.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HUD\\ControlHUD.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\HUD\\ControlHUD.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\HUD\\ControlHUD.cs",
               "RelativeToolTip": "Assets\\Scripts\\HUD\\ControlHUD.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -325,9 +304,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ContolPantallaCompleta.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Opciones\\ContolPantallaCompleta.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Opciones\\ContolPantallaCompleta.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Opciones\\ContolPantallaCompleta.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Opciones\\ContolPantallaCompleta.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Opciones\\ContolPantallaCompleta.cs",
               "RelativeToolTip": "Assets\\Scripts\\Opciones\\ContolPantallaCompleta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -337,9 +316,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ControlCalidadImagen.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Opciones\\ControlCalidadImagen.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Opciones\\ControlCalidadImagen.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Opciones\\ControlCalidadImagen.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Opciones\\ControlCalidadImagen.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Opciones\\ControlCalidadImagen.cs",
               "RelativeToolTip": "Assets\\Scripts\\Opciones\\ControlCalidadImagen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -349,9 +328,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "ControlVolumen.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Opciones\\ControlVolumen.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Opciones\\ControlVolumen.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Opciones\\ControlVolumen.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Opciones\\ControlVolumen.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Opciones\\ControlVolumen.cs",
               "RelativeToolTip": "Assets\\Scripts\\Opciones\\ControlVolumen.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwDYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -361,9 +340,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "InventoryUI.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\InventoryUI.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\InventoryUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Inventario\\InventoryUI.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\InventoryUI.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\InventoryUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\Inventario\\InventoryUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -373,9 +352,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\Item.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Inventario\\Item.cs",
-              "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\Item.cs",
+              "ToolTip": "C:\\Users\\robel\\OneDrive\\Documentos\\TFGDesafioElemental\\Assets\\Scripts\\Inventario\\Item.cs",
               "RelativeToolTip": "Assets\\Scripts\\Inventario\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -386,9 +365,9 @@
               "DocumentIndex": 20,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\AudioManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\AudioManager.cs",
               "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\AudioManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\AudioManager.cs",
               "ViewState": "AgIAAEgAAAAAAAAAAAAYwGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-06T17:52:48.775Z"
@@ -398,9 +377,9 @@
               "DocumentIndex": 21,
               "Title": "ControlInterruptor.cs",
               "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlInterruptor.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlInterruptor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\ControlInterruptor.cs",
               "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlInterruptor.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ControlInterruptor.cs",
+              "RelativeToolTip": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\ControlInterruptor.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T06:54:42.127Z"
@@ -410,9 +389,9 @@
               "DocumentIndex": 22,
               "Title": "ControlFrutas.cs",
               "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlFrutas.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlFrutas.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\ControlFrutas.cs",
               "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlFrutas.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ControlFrutas.cs",
+              "RelativeToolTip": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\ControlFrutas.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T08:34:05.802Z"
@@ -422,9 +401,9 @@
               "DocumentIndex": 23,
               "Title": "ControlJugador.cs",
               "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlJugador.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlJugador.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\ControlJugador.cs",
               "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlJugador.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ControlJugador.cs",
+              "RelativeToolTip": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\ControlJugador.cs",
               "ViewState": "AgIAAOwAAAAAAAAAAAAAABEBAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T15:57:12.109Z"
@@ -434,9 +413,9 @@
               "DocumentIndex": 24,
               "Title": "ControlPlataforma.cs",
               "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlPlataforma.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlPlataforma.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\ControlPlataforma.cs",
               "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlPlataforma.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ControlPlataforma.cs",
+              "RelativeToolTip": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\ControlPlataforma.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T07:01:38.381Z"
@@ -446,9 +425,9 @@
               "DocumentIndex": 25,
               "Title": "ControlEnemigo.cs",
               "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlEnemigo.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlEnemigo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\ControlEnemigo.cs",
               "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlEnemigo.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ControlEnemigo.cs",
+              "RelativeToolTip": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\ControlEnemigo.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwCwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T15:28:12.928Z"
@@ -458,9 +437,9 @@
               "DocumentIndex": 26,
               "Title": "ControlWin.cs",
               "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlWin.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ControlWin.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\ControlWin.cs",
               "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\ControlWin.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ControlWin.cs",
+              "RelativeToolTip": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\ControlWin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-07T20:52:21.341Z"
@@ -470,9 +449,9 @@
               "DocumentIndex": 27,
               "Title": "GameData.cs",
               "DocumentMoniker": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\GameData.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\GameData.cs",
               "ToolTip": "C:\\Users\\robel\\TFGDesafioElemental\\Assets\\Scripts\\GameData.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameData.cs",
+              "RelativeToolTip": "..\\..\\..\\TFGDesafioElemental\\Assets\\Scripts\\GameData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-07T21:00:33.141Z"
